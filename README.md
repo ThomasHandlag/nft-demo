@@ -18,6 +18,7 @@ npm run dev
 ```
 In order to use with IPFS you need to create .env.local file with the following variables:
 
+```env
 VITE_PINATA_JWT=yourtoken
-
 VITE_GATEWAY_URL=yourgateway
+```
